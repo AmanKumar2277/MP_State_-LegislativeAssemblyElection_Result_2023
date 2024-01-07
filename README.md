@@ -1,7 +1,9 @@
 # MP_State_-LegislativeAssemblyElection_Result_2023 Dashboard using Power BI.
 
+Introduction:
 
-
+This is the dashboard prepared on Madhya Pradesh Assembly Election 2023.I have worked on real time analysis by taking data from
+Election commision of india and wikipedia. It has giving me feel to work on live projects and live data.
 
 Contributions:
 
